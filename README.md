@@ -6,9 +6,9 @@ I'm OrangeByte42, a MECS Candidate @ Nanjing University 🧑‍🎓.
 - 🍜 **When not coding**: 📸 Photographer / 🚲️ Cyclist / 🎮️ Gamer
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OrangeByte42&show_icons=true" style="height: 120px;"/>
-  <img src="https://streak-stats.demolab.com/?user=OrangeByte42" style="height: 120px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrangeByte42&layout=compact" style="height: 120px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=OrangeByte42&show_icons=true" style="height: 100px;"/>
+  <img src="https://streak-stats.demolab.com/?user=OrangeByte42" style="height: 100px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrangeByte42&layout=compact" style="height: 100px;"/>
 </div>
 
 I firmly believe that by maintaining consistent daily efficient work, even the toughest challenges can be incorporated into our routine and cease to be overwhelming 🤗.
