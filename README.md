@@ -3,7 +3,7 @@
 I'm OrangeByte42, a MECS Candidate @ Nanjing University 🧑‍🎓.
 - 🎯 **My Focus**: ML (Machine Learning, esp. Deep Learning); Python Language;
 - 🌱 **My Journey**: LLMs，Python, CUDA, Mathematics;
-- 🍜 **When not coding**: 📸 Photographer / 🚲️ Cyclist / 🎮️ Gamer
+- 🍜 **When not coding**: 📸 Photographer / 🚲️ Cyclist / 🎮️ Gamer;
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OrangeByte42&show_icons=true" style="height: 100px;"/>
